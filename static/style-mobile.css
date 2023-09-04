@@ -113,7 +113,9 @@ hr.dashed {
 .navgap {
   padding-top: 50px;
 }
-
+.icon-bar-gap {
+  padding-bottom: 60px;
+}
 .product-tag {
   display: none;
 }
