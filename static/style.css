@@ -111,35 +111,10 @@ hr.dashed {
 }
 .topnav .right-nav  {
   float: right;
-  
 }
 .topnav .right-nav a {
-  
   padding: 10px 15px;
   font-size: 20px;
-}
-
-@media screen and (max-width: 720px) {
-  #card-matrix {
-    grid-template-columns: auto auto;
-  }
-  .card-local {
-    max-width: 185px;
-  }
-  .topnav .left-nav  {
-    display: none;
-  }
-  .topnav .right-nav {
-    display: none;
-  }
-  .carousel iframe {
-    height: 80px;
-  }
-  .topnav input[type=text] {
-    font-size: 20px;
-    width: 40%;
-    
-  }
 }
 .product-tag {
   display: none;
@@ -198,4 +173,31 @@ form {
   padding-top: 16px;
   display: block;
 }
-
+@media screen and (max-width: 720px) {
+  #card-matrix {
+    grid-template-columns: auto auto;
+  }
+  .card-local {
+    max-width: 185px;
+  }
+  .topnav .left-nav  {
+    display: none;
+  }
+  .topnav .right-nav {
+    display: none;
+  }
+  .carousel iframe {
+    height: 80px;
+  }
+  .topnav input[type=text] {
+    font-size: 20px;
+    width: 40%;
+  }
+  .filter-buttons {
+    grid-template-columns: auto auto auto;
+  }
+  .login-pad {
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+}
