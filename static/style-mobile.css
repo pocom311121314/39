@@ -23,7 +23,7 @@ hr.dashed {
 }
 .active {
   background-color: #FFFFFF;
-  color: #000000;
+  
 }
 #card-matrix {
   display: grid;
