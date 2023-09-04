@@ -195,7 +195,7 @@ form {
 }
 /* The "Forgot password" text */
 .container2 .psw {
-  float: none;
+  float: right;
   padding-top: 16px;
   display: block;
 }
