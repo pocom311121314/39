@@ -23,7 +23,7 @@ hr.dashed {
 }
 .active {
   background-color: #FFFFFF;
-  
+  color: #000000;
 }
 #card-matrix {
   display: grid;
@@ -74,7 +74,7 @@ hr.dashed {
   font-size: 25px;
 }
 .topnav a:hover {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
   color: black;
 }
 
