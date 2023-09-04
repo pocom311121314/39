@@ -78,7 +78,7 @@ hr.dashed {
   color: black;
 }
 .topnav a.active {
-  background-color: #D2D2D2;
+  background-color: #FFFFFF;
   color: rgb(0, 0, 0);
 }
 .topnav .search-container a{
@@ -142,7 +142,7 @@ hr.dashed {
 }
 
 .icon-bar .active {
-  background-color: #D2D2D2;
+  background-color: #FFFFFF;
   color: #000000;
 }
 .menu-options {
