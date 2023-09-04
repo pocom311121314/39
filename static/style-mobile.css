@@ -152,13 +152,12 @@ hr.dashed {
   background-color: #FFFFFF;
   color: #000000;
 }
-.menu-options {
+.menu-buttons {
   display: grid;
   grid-template-columns: auto auto ;
   grid-column-gap: 20px;
   grid-row-gap: 20px;
   padding: 20px;
-  
 }
 .menu-button {
   width: 160px;
@@ -169,7 +168,19 @@ hr.dashed {
   background-color: #d2d2d2;
   color: #000000;
 }
-
+.cart-buttons {
+  display: grid;
+  grid-template-columns: auto ;
+  padding: 20px;
+}
+.cart-button {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: #D2D2D2;
+  color: #000000;
+  cursor: pointer;
+  padding: 15px;
+}
 /* Full-width inputs */
 .container2 input[type=text], input[type=password] {
   width: 100%;
