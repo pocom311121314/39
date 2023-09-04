@@ -141,7 +141,7 @@ form {
   padding: 15px;
 }
 /* Full-width inputs */
-.container2 input[type=text], input[type=password] {
+.login-container input[type=text], input[type=password] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -150,7 +150,7 @@ form {
   box-sizing: border-box;
 }
 /* Set a style for all buttons */
-.container2 button {
+.login-container button {
   background-color: #04AA6D;
   color: white;
   padding: 14px 20px;
@@ -160,15 +160,15 @@ form {
   width: 100%;
 }
 /* Add a hover effect for buttons */
-.container2 button:hover {
+.login-container button:hover {
   opacity: 0.8;
 }
 /* Add padding to containers */
-.container2 {
+.login-container {
   padding: 16px;
 }
 /* The "Forgot password" text */
-.container2 .psw {
+.login-container .psw {
   float: right;
   padding-top: 16px;
   display: block;
