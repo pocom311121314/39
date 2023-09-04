@@ -22,7 +22,7 @@ hr.dashed {
   padding: 5px;
 }
 .active {
-  background-color: #FFFFFF;
+  background-color: #D2D2D2;
   color: #000000;
 }
 #card-matrix {
@@ -74,12 +74,12 @@ hr.dashed {
   font-size: 25px;
 }
 .topnav a:hover {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: black;
 }
-.topnav a .active {
-  color: #000000;
-
+.topnav a.active {
+  background-color: #D2D2D2;
+  color: rgb(0, 0, 0);
 }
 .topnav .search-container a{
   float: right;
@@ -141,7 +141,10 @@ hr.dashed {
   background-color: #FFFFFF;
 }
 
-
+.icon-bar .active {
+  background-color: #D2D2D2;
+  color: #000000;
+}
 .menu-options {
   display: grid;
   grid-template-columns: auto auto ;
