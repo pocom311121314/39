@@ -77,7 +77,10 @@ hr.dashed {
   background-color: #FFFFFF;
   color: black;
 }
+.topnav a .active {
+  color: #000000;
 
+}
 .topnav .search-container a{
   float: right;
   font-size: 25px;
