@@ -12,13 +12,20 @@ body {
 hr.dashed {
   border-top: 5px dashed #FFFFFF;
 }
+.filter-buttons {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  padding: 5px;
+  
+}
 .filter-button {
   border: 1px solid #000000;
   border-radius: 3em;
   background-color: #D2D2D2;
   color: #000000;
   cursor: pointer;
-  
   padding: 5px;
 }
 .active {
@@ -162,9 +169,7 @@ hr.dashed {
   background-color: #d2d2d2;
   color: #000000;
 }
-form {
-  border: 3px solid #f1f1f1;
-}
+
 /* Full-width inputs */
 .container2 input[type=text], input[type=password] {
   width: 100%;
