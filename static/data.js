@@ -511,7 +511,7 @@ for (let i of db.products) {
   //Create Card
   let card = document.createElement("div");
   //Card should have category and should stay hidden initially
-  card.classList.add("card-local", i.category, "hide");
+  card.classList.add("product-card", i.category, "hide");
   //image div
   let imgContainer = document.createElement("div");
   imgContainer.classList.add("image-container");
@@ -608,7 +608,7 @@ for (let i of db.products) {
   //button1.appendChild(buy1);
   //
   //card.appendChild(button1);
-  document.getElementById("card-matrix").appendChild(card);
+  document.getElementById("product-cards").appendChild(card);
 }
 
 //parameter passed from button (Parameter same as category)
@@ -625,7 +625,7 @@ function filterProduct(value) {
   });
 
   //select all cards
-  let elements = document.querySelectorAll(".card-local");
+  let elements = document.querySelectorAll(".product-card");
   //loop through all cards
   elements.forEach((element) => {
     //display all cards on 'all' button click
@@ -650,7 +650,7 @@ document.getElementById("search").addEventListener("click", () => {
   let searchInput = document.getElementById("search-input").value;
   let elements = document.querySelectorAll(".product-tag");
   
-  let cards = document.querySelectorAll(".card-local");
+  let cards = document.querySelectorAll(".product-card");
 
   //loop through all elements
   elements.forEach((element, index) => {

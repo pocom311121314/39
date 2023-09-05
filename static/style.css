@@ -34,7 +34,7 @@ hr.dashed {
   background-color: #FFFFFF;
   color: #000000;
 }
-#card-matrix {
+#product-cards {
   display: grid;
   grid-template-columns: auto auto auto auto auto auto;
   grid-column-gap: 0.5em;
@@ -42,7 +42,7 @@ hr.dashed {
   padding: 2em 0;
   justify-content: center;
 }
-.card-local {
+.product-card {
     max-width: 200px;
     padding: 10px;
     border-radius: 5px;
@@ -174,10 +174,10 @@ form {
   display: block;
 }
 @media screen and (max-width: 720px) {
-  #card-matrix {
+  #product-cards {
     grid-template-columns: auto auto;
   }
-  .card-local {
+  .product-card {
     max-width: 185px;
   }
   .topnav .left-nav  {

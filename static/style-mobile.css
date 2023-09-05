@@ -32,7 +32,7 @@ hr.dashed {
   background-color: #D2D2D2;
   color: #000000;
 }
-#card-matrix {
+#product-cards {
   display: grid;
   grid-template-columns: auto auto ;
   grid-column-gap: 0.5em;
@@ -40,7 +40,7 @@ hr.dashed {
   padding: 2em 0;
   justify-content: center;
 }
-.card-local {
+.product-card {
     max-width: 185px;
     padding: 10px;
     border-radius: 5px;
