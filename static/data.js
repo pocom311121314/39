@@ -645,7 +645,7 @@ function filterProduct(value) {
 }
 
 //Search button click
-document.getElementById("search-input").addEventListener("click", () => {
+document.getElementById("search-input").addEventListener("keydown", () => {
   //initializations
   let searchInput = document.getElementById("search-input").value;
   let elements = document.querySelectorAll(".product-tag");
