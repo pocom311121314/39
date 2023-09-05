@@ -41,7 +41,7 @@ hr.dashed {
   justify-content: center;
 }
 .product-card {
-    
+    max-width: 185px;
     padding: 5px;
     border-radius: 5px;
     cursor: pointer;
