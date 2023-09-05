@@ -158,6 +158,7 @@ hr.dashed {
   grid-column-gap: 20px;
   grid-row-gap: 20px;
   padding: 20px;
+  justify-content: center;
 }
 .menu-button {
   width: 160px;
