@@ -154,8 +154,8 @@ let db = {
     },
     {
         id : "16",
-        title : "VIVO 5G 4 gb ram 128 gb rom ",
-        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black",
+        title : "VIVO 5G 4_128 ",
+        tag : "vivo 5G 4 4gb 4gbram 128 128gb 128gbrom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black",
         category: "explore",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -165,7 +165,7 @@ let db = {
     {
         id : "17",
         title : "VIVO 5G 4_128",
-        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black ",
+        tag : "vivo 5G 4 4gb 4gbram 128 128gb 128gbrom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black ",
         category: "20k",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -175,7 +175,7 @@ let db = {
     {
         id : "18",
         title : "VIVO 5G 4_128",
-        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black ",
+        tag : "vivo 5G 4 4gb 4gbram 128 128gb 128gbrom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black ",
         category: "20k",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -185,7 +185,7 @@ let db = {
     {
         id : "19",
         title : "VIVO 5G 4_128",
-        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles blue",
+        tag : "vivo 5G 4 4gb 4gbram 128 128gb 128gbrom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles blue",
         category: "20k",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -195,7 +195,7 @@ let db = {
     {
         id : "20",
         title : "VIVO 5G 4_128",
-        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles gold",
+        tag : "vivo 5G 4 4gb 4gbram 128 128gb 128gbrom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles gold",
         category: "20k",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -205,7 +205,7 @@ let db = {
     {
         id : "21",
         title : "APPLE IPHONE 14 ",
-        tag : "apple iphone 5G 4 gb ram 128 gb rom green 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
+        tag : "apple iphone 5G 4 4gb 4gbram 128 128gb 128gbrom green 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
         category: "explore",
         rating: "static/image/data/04.png",
         price : "79,999",
@@ -215,7 +215,7 @@ let db = {
     {
         id : "22",
         title : "APPLE IPHONE 14 ",
-        tag : "apple iphone 5G 4 gb ram 128 gb rom blue 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
+        tag : "apple iphone 5G 4 4gb 4gbram 128 128gb 128gbrom blue 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
         category: "80k",
         rating: "static/image/data/04.png",
         price : "79,999",
@@ -225,7 +225,7 @@ let db = {
     {
         id : "23",
         title : "APPLE IPHONE 14 ",
-        tag : "apple iphone 5G 4 gb ram 128 gb rom white 5g  smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
+        tag : "apple iphone 5G 4 4gb 4gbram 128 128gb 128gbrom white 5g  smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
         category: "80k",
         rating: "static/image/data/04.png",
         price : "79,999",
@@ -235,7 +235,7 @@ let db = {
     {
         id : "24",
         title : "APPLE IPHONE 14 ",
-        tag : "apple iphone 5G 4 gb ram 128 gb rom black 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
+        tag : "apple iphone 5G 4 4gb 4gbram 128 128gb 128gbrom black 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
         category: "80k",
         rating: "static/image/data/04.png",
         price : "79,999",
@@ -325,7 +325,7 @@ let db = {
     {
         id : "33",
         title : "HP GAMING VICTUS",
-        tag : "hp laptop laptops rog gaming 1tbssd i7 16gbram ",
+        tag : "hp laptop laptops rog gaming 1 1tb 1tbssd i7 16 16gb 16gbram ",
         category: "50k",
         rating: "static/image/data/03.png",
         price : "45,999",
@@ -335,7 +335,7 @@ let db = {
     {
         id : "34",
         title : "HP GAMING VICTUS PRO",
-        tag : "hp laptop laptops rog gaming 1tbssd i7 16gbram ",
+        tag : "hp laptop laptops rog gaming 1 1tb 1tbssd i7 16 16gb 16gbram ",
         category: "80k",
         rating: "static/image/data/03.png",
         price : "65,999",
@@ -345,7 +345,7 @@ let db = {
     {
         id : "35",
         title : "HP GAMING VICTUS ROG",
-        tag : "hp laptop laptops rog gaming 1tbssd i7 16gbram ",
+        tag : "hp laptop laptops rog gaming 1 1tb 1tbssd i7 16 16gb 16gbram ",
         category: "50k",
         rating: "static/image/data/03.png",
         price : "45,999",
@@ -355,7 +355,7 @@ let db = {
     {
         id : "36",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
+        tag : "dell laptop laptops rog gaming 1 1tb 1tbssd i5 16 16gb 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -365,7 +365,7 @@ let db = {
     {
         id : "37",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
+        tag : "dell laptop laptops rog gaming 1 1tb 1tbssd i5 16 16gb 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -375,7 +375,7 @@ let db = {
     {
         id : "38",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
+        tag : "dell laptop laptops rog gaming 1 1tb 1tbssd i5 16 16gb 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -385,7 +385,7 @@ let db = {
     {
         id : "39",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
+        tag : "dell laptop laptops rog gaming 1 1tb 1tbssd i5 16 16gb 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -395,7 +395,7 @@ let db = {
     {
         id : "40",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
+        tag : "dell laptop laptops rog gaming 1 1tb 1tbssd i5 16 16gb 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -405,7 +405,7 @@ let db = {
     {
         id : "41",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
+        tag : "lenovo laptop laptops student 256 256gb 256gbssd i5 4 4gb 4gbram ",
         category: "explore",
         rating: "static/image/data/02.png",
         price : "55,999",
@@ -415,7 +415,7 @@ let db = {
     {
         id : "42",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
+        tag : "lenovo laptop laptops student 256 256gb 256gbssd i5 4 4gb 4gbram ",
         category: "explore",
         rating: "static/image/data/02.png",
         price : "55,999",
@@ -425,7 +425,7 @@ let db = {
     {
         id : "43",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
+        tag : "lenovo laptop laptops student 256 256gb 256gbssd i5 4 4gb 4gbram ",
         category: "80k",
         rating: "static/image/data/02.png",
         price : "55,999",
@@ -435,7 +435,7 @@ let db = {
     {
         id : "44",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
+        tag : "lenovo laptop laptops student 256 256gb 256gbssd i5 4 4gb 4gbram ",
         category: "80k",
         rating: "static/image/data/02.png",
         price : "55,999",
@@ -445,7 +445,7 @@ let db = {
     {
         id : "45",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
+        tag : "lenovo laptop laptops student 256 256gb 256gbssd i5 4 4gb 4gbram ",
         category: "50k",
         rating: "static/image/data/02.png",
         price : "45,999",
