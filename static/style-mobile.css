@@ -38,7 +38,7 @@ hr.dashed {
   grid-column-gap: 10px;
   grid-row-gap: 10px;
   padding: 10px;
-  
+  justify-content: center;
 }
 .product-card {
     
