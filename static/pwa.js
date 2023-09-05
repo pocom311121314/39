@@ -1,6 +1,7 @@
 const dc = "dcshopv3"
 const assets = [
   "/",
+  "/index.html",
 ]
 self.addEventListener("install", installEvent => {
   installEvent.waitUntil(
