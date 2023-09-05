@@ -5,7 +5,7 @@ let db = {
     {
         id : "1",
         title : "BOAT AIRPODS PRO (BLACK)",
-        tag : "headphones headphone deep bass bluetooth wireless boat black",
+        tag : "headphones headphone deep bass  wireless boat black",
         category: "500",
         rating: "static/image/data/05.png",
         price : "299",
@@ -15,7 +15,7 @@ let db = {
     {
         id : "2",
         title : "BOAT AIRPODS PRO (GREEN-WHITE)",
-        tag : "headphones headphone deep bass bluetooth wireless boat green white",
+        tag : "headphones headphone deep bass  wireless boat green white",
         category: "500",
         rating: "static/image/data/04.png",
         price : "259",
@@ -25,7 +25,7 @@ let db = {
     {
         id : "3",
         title : "BOAT AIRPODS PRO (RED)",
-        tag : "headphones headphone deep bass bluetooth wireless boat red ",
+        tag : "headphones headphone deep bass  wireless boat red ",
         category: "1k",
         rating: "static/image/data/03.png",
         price : "399",
@@ -35,7 +35,7 @@ let db = {
     {
         id : "4",
         title : "BOAT AIRPODS PRO (GREEN)",
-        tag : "headphones headphone deep bass bluetooth wireless boat green ",
+        tag : "headphones headphone deep bass  wireless boat green ",
         category: "1k",
         rating: "static/image/data/02.png",
         price : "359",
